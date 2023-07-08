@@ -50,6 +50,12 @@ Please make sure to update tests as appropriate.
 * https://github.com/twilio-professional-services/twilio-webchat-with-serverless
 * https://www.youtube.com/watch?v=YPOce95TbAc
 
+## Notes
+To install Twillio Package:
+```
+$ composer create-project laravel/laravel sms-send
+```
+
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
