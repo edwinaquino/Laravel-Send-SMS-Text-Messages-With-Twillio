@@ -36,7 +36,7 @@ Server running on [http://127.0.0.1:8001]
 ## Source
 /f/apachefriends/xampp/htdocs/over-imgV5/REACT/SMS/Twilio/Laravel/send-sms-with-twillio
 
-## Demo
+## Screen Shot
 <img width="395" alt="github-how-to-send-sms-laravel" src="https://github.com/edwinaquino/Laravel-Send-SMS-Text-Messages-With-Twillio/assets/30946443/6150ca30-5d67-40af-b731-ed4d13951367"></img>
 
 ## Contributing
