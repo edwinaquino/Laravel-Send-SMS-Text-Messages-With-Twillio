@@ -46,7 +46,7 @@ to discuss what you would like to change.
 
 Please make sure to update tests as appropriate.
 
-# Resource:
+## Resources:
 * https://github.com/twilio-professional-services/twilio-webchat-with-serverless
 * https://www.youtube.com/watch?v=YPOce95TbAc
 
