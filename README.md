@@ -51,9 +51,9 @@ Please make sure to update tests as appropriate.
 * https://www.youtube.com/watch?v=YPOce95TbAc
 
 ## Notes
-To install Twillio Package:
+To install Twillio SDK:
 ```
-$ composer create-project laravel/laravel sms-send
+$ composer require twilio/sdk
 ```
 
 ## License
