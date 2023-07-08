@@ -9,7 +9,7 @@
 </head>
 <body>
     <div class="container text-center mt-5">
-        <h2>How to Send SMS Using Laravel 9</h2>
+        <h2>How to Send SMS Using Laravel</h2>
         <hr style="color:#ff0000;height:5px;">
         <div class="row">
         	<div class="col-md-3"></div>
