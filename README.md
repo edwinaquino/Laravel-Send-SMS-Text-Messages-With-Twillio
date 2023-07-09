@@ -21,8 +21,8 @@ $ cp .env-example .env
 ```
 4. Add your TOKEN information into the .env file:
 ```bash
-TWILIO_SID=AC634d3ddba1bwfd3f403244d74615cdaa
-TWILIO_TOKEN=8a5a7cb98wdf1a9a13ef1d3710dd29fe
+TWILIO_SID=xxxxxxxxxxxxxxxxxxxxxxxxx
+TWILIO_TOKEN=xxxxxxxxxxxxxxxxx
 TWILIO_FROM=+12135551212
 ```
 5. Run the application
